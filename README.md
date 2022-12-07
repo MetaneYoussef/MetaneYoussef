@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MetaneYoussef a cyber security masters student at usthb 
-- 👀 I’m interested in deeplearning and cyber security (Pwn and Web)
+- 👀 I’m interested in Deep Learning and Cyber Security (Pwn and Web)
 - 🌱 I’m currently learning Cyber Security basics
 
 
